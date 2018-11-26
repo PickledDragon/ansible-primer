@@ -12,4 +12,4 @@ Starting vanilla hosts for your lab set up
 2. `cd ansible-primer/src`
 3. Run `vagrant up` and wait for the machines to boot
 
-Note: Initial download of Ubuntu bento box takes a while (to download about `1.8G` of data)
+Note: Initial download of Ubuntu bento box takes a while (to download about `1.8G` of data). You may tweak it to a lighter vagrant box image by modifying the `Vagrantfile`. A list of vagrant boxes is available [here](https://app.vagrantup.com/boxes/search).
