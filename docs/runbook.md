@@ -1,4 +1,4 @@
-Accompanying presentation: https://docs.google.com/presentation/d/1ro7BsMg03a4S4NrrCjer2MjNi3vG4KCJfbyaBNadiTg/edit?usp=sharing
+Accompanying presentation: https://goo.gl/xgz7mE
 
 **Trainer Notes:**
 1. Explain lab set up
