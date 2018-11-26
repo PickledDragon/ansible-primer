@@ -1,0 +1,19 @@
+Vagrant.configure("2") do |config|
+    config.vm.box = "bento/ubuntu-18.04"
+    
+    config.vm.define "webserver1" do |webserver1|
+        webserver1.vm.network "private_network", ip: "192.168.20.10"    
+        webserver1.vm.hostname = "webserver1"
+    end
+
+    config.vm.define "webserver2" do |webserver2|
+        webserver2.vm.network "private_network", ip: "192.168.20.11"    
+        webserver2.vm.hostname = "webserver2"
+    end
+
+    config.vm.define "database" do |database|
+        database.vm.network "private_network", ip: "192.168.20.12"    
+        database.vm.hostname = "database"
+    end
+    
+end
