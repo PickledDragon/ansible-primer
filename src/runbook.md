@@ -1,3 +1,5 @@
+Accompanying presentation: https://docs.google.com/presentation/d/1ro7BsMg03a4S4NrrCjer2MjNi3vG4KCJfbyaBNadiTg/edit?usp=sharing
+
 1. Host inventory (Explain)
 2. Hosts and host groups. Show on command prompt how to poll [ansible -i ansible/hosts --list-hosts all]
 3. Execute ping module. Fix ping step by step, showing how to use verbose option
