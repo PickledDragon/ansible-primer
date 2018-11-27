@@ -1,5 +1,5 @@
 # ansible-primer
-Quick workshop on Ansible for weekly tech sessions
+Quick workshop on Ansible for weekly tech sessions. Accompanying slides [here](https://docs.google.com/presentation/d/1ro7BsMg03a4S4NrrCjer2MjNi3vG4KCJfbyaBNadiTg/edit?usp=sharing)
 
 ### Prerequisites
 * Access to a Linux/OSX box
